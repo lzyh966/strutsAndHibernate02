@@ -1,0 +1,2 @@
+# strutsAndHibernate02
+ StrutsAndHibernate
